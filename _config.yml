@@ -1,2 +1,3 @@
 name: Massimo Pinto, Research Scientist
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
