@@ -1,5 +1,7 @@
 name: Massimo Pinto, Research Scientist
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+timezone: Europe/Rome
 gems:
   - jekyll-sitemap
+excerpt_separator: <!--more-->
