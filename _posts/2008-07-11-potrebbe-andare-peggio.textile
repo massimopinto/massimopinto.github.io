@@ -1,0 +1,10 @@
+---
+layout: post
+title: Potrebbe andare peggio
+tags: []
+---
+Quando negli USA cominciarono la sperimentazione clinica sulla "amifostina":http://en.wikipedia.org/wiki/Amifostine (il radioprotettore[1] e chemo-protettore anche noto come WR2721), dati i terribili effetti collaterali di questa medicina, i pazienti potevano rifiutarsi di assumerla. Pare che fossero in molti ad aver rifiutato il farmaco, pur sapendo che, forse, avrebbe potuto sortire dei benefici. I pazienti che accettarono di assumere l'amifostina eran troppo pochi perche' la sperimentazione clinica potesse produrre risultati statisticamente convincenti. Eppure, dei risultati oggi ci sono...grazie alla Cina, dove, se il medico aveva prescritto il trattamento e se il paziente non voleva sottoporvisi, la Polizia _accompagnava...gentilmente..._ il paziente alla seduta.
+ 
+Questo post e' basato su una segnalazione di _Bellostivale_. Grazie.
+
+fn1. Sostanza che riduce gli effetti citotossici delle radiazioni ionizzanti

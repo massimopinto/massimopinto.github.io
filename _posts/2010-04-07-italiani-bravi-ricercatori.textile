@@ -1,0 +1,15 @@
+---
+layout: post
+title: Italiani, bravi ricercatori
+tags: []
+---
+Su questo giornale, ma non solo, c'è la tendenza a mettere in risalto i risultati della ricerca 'italiana'. Un po' di orgoglio nazionale non guasta, ma in molte discipline scientifiche oggi è difficile non riconoscere il contributo di collaboratori in altri paesi. Sopratutto, molti risultati si raggiungono con collaborazioni internazionali piuttosto che nel proprio orticello. Orgoglio a parte, quanto siamo bravi noi Italiani in fatto di ricerca scientifica?
+Premesso che la valutazione dei risultati è tema molto dibattuto nella comunità internazionale[1], ci sono alcuni servizi/database che tentano di stilare classifiche di qualità. Non è cosa banale, visto che queste classifiche determinano l'allocazione di finanziamenti a molti zeri, piani strategici, assunzioni. Uno di questi servizi, gratuito, è l'archivio dati online "Scimago":http://www.scimagojr.com/. Su Scimago, per il poco più che decennio 1996-2008, si possono confrontare "riviste":http://www.scimagojr.com/journalsearch.php, che è il modo in cui ci sono arrivato io, ma è possibile anche fare "confronti":http://www.scimagojr.com/compare.php tra più paesi, oppure verificare in quale "settore disciplinare":http://www.scimagojr.com/mapgen.php un paese concentra maggiormente le sue risorse di ricerca. Nel caso dell'Italia, quando si valuta il volume dei risultati, questo appare essere la ricerca biomedica (vedi figura).
+
+!http://www.galileonet.it/postdoc/images/37t.jpg!
+
+Quello che ha colpito me è che nonostante la precarietà dei nostri ricercatori ed i limitati fondi per la ricerca, non siamo messi troppo male. Se si stila una classifica basata sull'indice "h":http://www.galileonet.it/postdoc/article/9/come-potete-giudicare, uno stimatore dell'impatto scientifico delle pubblicazioni (in questo caso, di un intero paese), l'italia è settima in classifica generale, preceduta dai soliti sospetti (USA, UK, Germania, Francia, Canada, Giappone). Nelle scienze Biomediche, siamo sesti. In quelle Fisiche, siamo ottavi. Cambiando le categorie, raramente siamo fuori dai primi dieci. Sembriamo quasi un paese scientificamente competitivo.
+ 
+fn1. Julia Lane, "Let's make science metrics more scientific":http://dx.doi.org/10.1038/464488a, Nature 25 Marzo 2010.
+
+ 

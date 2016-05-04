@@ -1,0 +1,12 @@
+---
+layout: post
+title: Radon e rischio di cancro polmonare
+tags: []
+---
+Questa mattina ho partecipato alla presentazione del rapporto[1] dell'Organizzazione Mondiale della Sanita' _"WHO Handbook on indoor Radon, a Public Health Perspective"_, a cura dell'Istituto Superiore di Sanita' e del Ministero del Lavoro, della Salute e delle Politiche Sociali.  Il rapporto OMS e' in uscita in questi ultimi giorni di Settembre e rappresenta il risultato di un impegno internazionale coordinato da 35 paesi, tra cui l'Italia, per l'identificazione di strategie per ridurre l'impatto del Radon sulla salute umana. 
+!http://www.galileonet.it/postdoc/images/35t.jpg!  
+Piccolo passo indietro. Il Radon e' un gas radioattivo presente nelle abitazioni, proveniente dal sottosuolo e dai materiali di costruzione. La sua concentrazione e' facilmente misurabile. La ricerca scientifica ha mostrato che l'esposizione al Radon e' associata ad un _rischio_ (n.b. non _certezza_) di cancro polmonare, ed e' la  _seconda_ causa di tumore polmonare (in Italia, circa il 10% del totale dei casi) dopo il fumo di sigaretta. Per questa ragione il Radon pone un problema di _salute pubblica_ e richiede interventi di prevenzione mirati alla riduzione del suo impatto sulla nostra salute.
+
+Per quanto concerne l'implementazione delle linee guida stabilite dalla OMS, la responsabilita' spetta alle singole Nazioni. Per poter fronteggiare questo problema, in Italia e' stato lanciato nel 2006 un piano di studio, il "Piano Nazionale Radon":http://www.iss.it/tesa/prog/cont.php?id=182&tipo=14&lang=1.
+
+fn1.  "WHO handbook on indoor radon - a public health perspective":http://whqlibdoc.who.int/publications/2009/9789241547673_eng.pdf

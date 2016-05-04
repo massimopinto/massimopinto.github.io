@@ -1,0 +1,13 @@
+---
+layout: post
+title: 'Dismisure '
+tags: []
+---
+Un collega un po' piu' maturo di me mi ha chiesto parere su una faccenda che lo riguarda in prima persona: ad un concorso interno, riservato a Primi Ricercatori (piu' o meno equivalente dell'Accademico Professore Associato) che ambiscono a diventare Dirigenti di Ricerca (circa equivalente Accademico del Professore Ordinario), sono state adottate alcune metriche per quantificare la produzione scientifica dei candidati. Specificamente, il valore di ciascun manoscritto scientifico e' stato pesato in funzione della rivista su cui questo e' stato pubblicato. Trattasi, nella fattispecie, del famoso impact factor, su cui ho scritto "a Novembre":http://www.galileonet.it/postdoc/article/213/al-diavolo-limpact-factor-parola-di-nature ed anche "tempo addietro":http://www.galileonet.it/postdoc/article/9/come-potete-giudicare. L'impact factor e' una _zampata_ di "Eugene Garfield":http://www.garfield.library.upenn.edu/ che poi, pare, e' rimasto poco colpito dal modo barbaro in cui, talvolta, e' stata adoperata la sua invenzione. 
+Torno al mio collega. Furioso, perche' alcuni suoi lavori sono stati giudicati 0.2 punti, altri 1 punto. La penalizzazione che ne e' derivata gli e' molto amara. Lui, come i colleghi che leggono queste due riviste, sa che il loro prestigio, ammesso che questo esista e sia misurabile,  e' sostanzialmente lo stesso. Si potrebbe argomentare che una delle due e' appena piu' letta (e citata) dell'altra, ma poca roba. Da dove sbuca allora il fatto che i manoscritti apparsi sulla prima sarebbero cinque volte meno validi di quelli apparsi sulla seconda? Il mio collega ha forse lavorato cinque volte meno o cinque volte peggio? Non credo che esista una spiegazione ragionevole (e' il miglior parere che sono riuscito a dare) perche' questo e' l'ennesimo caso di malpratica nell'uso delle metriche 'moderne' nel giudizio di merito. Ci mancava solo che fossero disponibili degli indicatori quantitativi, ed il peggio sarebbe seguito. E come il caso sembra suggerire, queste ingiustizie si presentano sia sul cammino dei giovani sia su quello dei meno giovani.
+
+Per quanto possano esser ritenute affascinanti da chi vuol fare del giudizio della ricerca una faccenda di contabilita', le metriche come l'impact factor e lo h-index non potranno esser sostituite dal buon senso: il parere verbale degli esperti. Non e' una mia idea: l'ha scritto David Colquhoun[1] su Physiology News 2 anni fa e mi ha convinto.
+
+fn1. D. Colquhoun, _Physiology News_, No. 69, Winter 2007
+
+  

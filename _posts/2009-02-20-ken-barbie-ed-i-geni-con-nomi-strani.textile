@@ -1,0 +1,7 @@
+---
+layout: post
+title: Ken, Barbie e geni con nomi strani
+tags: []
+---
+Sto studiando l'articolo per l'intervista telefonica di oggi pomeriggio, quella che sara' inserita nel "Radiation Research Podcast":http://www.radres.org/podcast di Febbraio. L'articolo va in dettaglio nella catena di eventi di _signaling_ di TGF-beta, un fattore di crescita (growth factor) che sta piu' o meno alla base di tutto. Alcune delle proteine coinvolte in questo _signaling_ molecolare sono le _smad_, che si trovano nel citoplasma. Se siete persone normali, vi chiederete come mai questi nomi sono cosi' strani. _smad_, per esempio, significa "small mothers against decapentaplegic":http://tinman.nikunnakki.info/?q=node/52, ovvero _piccole madri contro la decapentaplegia_, un nomignolo curioso. Scopro allora che sul web c'e' un archivio di geni con nomi strani, e consultandolo, non posso esimermi dal segnalarvi _Ken e Barbie_, un gene del moscerino della frutta, _D. Melanogaster_, che, se mutato, non fa crescere gli organi genitali esterni ai moscerini maschi o femmine. Proprio come Ken e Barbie. 
+Mai piu' un giorno senza consultare l'archivio.
