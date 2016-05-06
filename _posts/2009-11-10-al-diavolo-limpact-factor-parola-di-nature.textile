@@ -1,0 +1,15 @@
+---
+layout: post
+title: Al diavolo l'impact factor - parola di Nature
+tags: []
+---
+Per il centoquarantesimo anniversario della rivista,  _Nature_ pubblica un editoriale[1] del quale mi permetto di tradurre una porzione:
+
+bq. [...] Ma altri, alle volte, ripongono più valore nel nostro giudizio di quello che esso possa sostenere. Grandi finanziamenti, donazioni filantropiche e posti dirigenziali sono stati assegnati sulla base della forza di un manoscritto pubblicato su _Nature_ - in effetti, utilizzando decisioni editoriali come surrogato di un giudizio indipendente. Questa è un'abdicazione della responsabilità di coloro i quali hanno potere decisionale, un tranello che deve essere evitato.
+Similmente, non traiamo alcun giovamento dal fatto che i ricercatori si sentano oppressi dalla necessità di pubblicare nelle 'migliori' riviste scientifiche. Sosteniamo quegli sforzi che possano creare sistemi che vadano oltre la crudezza dello impact factor[2], sistemi che rendano trasparenti le citazioni ed altri effetti di un articolo scientifico, e che testimonino l'impatto dei ricercatori anche in altri ambiti, quali i loro contributi alla costruzione di database e quella gran fatica della _peer review_.
+
+Ogni mio commento sarebbe assolutamente superfluo. Ma sono benvenuti i vostri, tenendo in mente che la rivoluzione annunciata della nostra università dovrebbe basare il giudizio di merito dei ricercatori proprio su indicatori come l'impact factor.
+
+fn1. "140 Years on":http://dx.doi.org/10.1038/462012a, Nature 462, 12 (5 November 2009)
+
+fn2. Sia in questo "blog":http://www.galileonet.it/postdoc/article/9/come-potete-giudicare sia su questo "giornale":http://www.galileonet.it/news/10233/cito-dunque-sono si è parlato numerose volte di _impact factor_, _h-index_, e del problema generale degli indicatori quantitativi della produttività scientifico-letteraria di un ricercatore. 

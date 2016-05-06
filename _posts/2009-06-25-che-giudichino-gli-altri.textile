@@ -1,0 +1,18 @@
+---
+layout: post
+title: Che giudichino gli altri?
+tags: []
+---
+Un "lettore":http://www.galileonet.it/postdoc/article/165/che-giudichino-gli-altri#c001818 mi ha fatto notare una notizia che mi sta facendo riflettere, ed intanto che rifletto lo ringrazio per la sua gentilezza.
+
+L'articolo che mi ha segnalato, pubblicato nella sezione 'Notizie' della rivista _Nature_ dela scorsa settimana[1], annuncia che i National Institutes of Health (NIH) americani faranno da arbitri nella _peer-review_ di circa un migliaio di progetti di ricerca per il 'Governo Italiano', un caso unico ed apparentemente senza precedenti. L'articolo non menziona esplicitamente di quale gara si tratti, ma indica che i vincitori di questa gara dovrebbero essere 50-60 giovani ricercatori che dovranno dividersi un budget di circa 29 milioni di Euro, il prossimo Gennaio 2010. Sulla base di questi elementi, potrebbe trattarsi, ma è solo un'ipotesi perché pare non sia facile reperire informazioni aggiornate dal portale del Ministero, della gara indetta dal Ministero del Lavoro, della Salute e delle Politiche Sociali, comunemente detto "bando dei giovani ricercatori":http://www.ministerosalute.it/bandi/dettaglio.jsp?id=48 dello scorso Dicembre 2008, chiusosi nel Marzo 2009.
+
+La notizia di _Nature_ è focalizzata sull'unicità dell'iniziativa: un'agenzia di finanziamento governativa, nel nostro Paese, avrebbe scelto di rivolgersi ad un'agenzia di un paese estero, e dunque ai suoi arbitri, per assegnare fondi di ricerca a casa propria. Le ragioni addotte, come si può immaginare, sono legate alla nostra incapacità di condurre fino al termine un processo di _peer review_ che sia onesto. In particolare, traduco:
+
+bq. [...] I tanti sistemi nazionali di peer review esistenti [in Italia, N.d.T], e che lavorono in risposta a bandi di finanziamento emessi con frequenza irregolare, sono macchiati da accuse di conflitto di interessi tra gruppi ristretti di revisori.
+
+Un fatto gravissimo: non solo non siamo soliti assegnare i fondi tramite gare (con _peer review_), ma quando lo facciamo, in realtà stiamo solo facendo finta. L'unica soluzione, dunque, sarebbe fare giudicare ad altri, terzi ed imparziali.
+
+La notizia che questo blog vorrebbe essere sicuro di poter dare, ma mi prometto di chiedere anche direttamente al Ministero, è che i progetti in ballo in questa gara sarebbero proprio quelli dei giovani ricercatori, ai quali sarebbe stato dato il privilegio, secondo quanto starebbe asserendo _Nature_, di partecipare ad una gara che si preannuncia _reale_. Sarebbe, scusatemi se lo ribadisco, un privilegio rarissimo. Una gara in cui i perdenti potranno complimentarsi con i vincitori.
+
+fn1. 'Italy outsources peer review to NIH', Richard Van Noorden, Nature 17 June 2009 "Nature 459, 900":http://dx.doi.org/10.1038/459900a. E' possibile anche effettuare commenti (non ce ne sono ancora mentre scrivo questo post)

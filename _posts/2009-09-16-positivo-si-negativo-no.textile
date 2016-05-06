@@ -1,0 +1,15 @@
+---
+layout: post
+title: Positivo si, negativo no
+tags: []
+---
+A volte viene da pensare che le pubblicazioni scientifiche non debbano essere giudicate, in modo ciritico, da esseri umani. Da alcuni anni si parla del fatto che le riviste scientifiche tendono a pubblicare risultati di lavori in cui si mette in evidenza un effetto chiaro: il farmaco A è migliore del trattamento placebo, oppure del farmaco B. Ancora: la somministrazione di due farmaci insieme porta risultati superiori a quello del trattamento con un farmaco alla volta etc. I risultati negativi, invece, del tipo 'non si riscontra un beneficio significativo nella terapia con _pippex_ sciroppo', piacciano meno agli editori e gli articoli che li descrivono vengono pubblicati con maggiore difficoltà di quelli che riportano effetti misurabili. Eppure, entrambi i lavori, ammesso che siano stati eseguiti in modo corretto, contribuiscono al progresso scientifico. Se un risultato è negativo, meglio diffondere la notizia e voltare pagina. 
+
+Evidentemente, preferiamo il 'successo' al 'fallimento' ad ogni passo e siamo poco disposti ad accettare che il percorso verso la conoscenza 'non è sempre una linea retta'. Nature[1] di questa settimana descrive in un articolo breve uno studio davvero astuto. Un articolo ben scritto è stato sottoposto a peer review in due forme diverse. In una prima versione, l'effetto del trattamento di un ipotetico antibiotico era positivo; nella seconda versione, invece non c'era alcun effetto. Tutto il resto, ovvero introduzione al lavoro, metodo sperimentale, discussione generale, erano assolutamente identici. Eppure...la versione 'positiva' ha suscitato più spesso il giudizio positivo dei revisori, che invece hanno indicato piu' sovente che la versione 'negativa' non fosse pubblicata. Non solo...i revisori hanno anche giudicato peggiori le altre sezioni della versione 'negativa' del manoscritto, la parte metodologica, anche se questa era del tutto identica a quella della versione 'positiva'. Nel manoscritto erano anche stati nascosti numerosi errori, identici nelle due versioni, ma i revisori hanno lasciato correre più errori, senza notarli, nella versione 'positiva'. 
+
+Questo atteggiamento mi porta dei ricordi sgradevoli e voglio azzardare un'analogia. A scuola, come all'università, si aveva spesso l'impressione che al migliore della classe veniva concesso un trattamento più leggero, domande più facili alle interrogazioni agli esami se aveva già altri voti alti sul suo libretto. A quelli meno bravi, invece, venivano fatte le pulci, e magari venivano 'confermati' i voti relativamente più bassi che erano stati dati agli esami precedenti. 
+
+Umani, strana gente.
+
+Nicola Jones, _Sneak test shows positive-paper bias_, "Nature News  14 September 2009":http://dx.doi.org/10.1038/news.2009.914 
+ 

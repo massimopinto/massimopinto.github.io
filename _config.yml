@@ -4,4 +4,5 @@ permalink: /blog/:year/:month/:day/:title
 timezone: Europe/Rome
 gems:
   - jekyll-sitemap
-excerpt_separator: <!--more-->
+  - jekyll-textile-converter
+excerpt_separator: "" #Over-rides any excerpt_separator, see https://jekyllrb.com/docs/posts/#post-excerpts

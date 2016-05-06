@@ -1,0 +1,18 @@
+---
+layout: post
+title: Tu vuo' fa' 'o molecolare...
+tags: []
+---
+Ho iniziato con una laurea in fisica, con indirizzo nucleare ed orientamento biologico. Appena un paio di esami di biologia, su 18 in tutto, e rischiavo pure di innamorarmi della professoressa di Genetica. Da li' mi sono subito imbattuto in un PhD, a Londra, sul tema del danno al DNA indotto da radiazioni ionizzanti, ed il suo riparo. Poi, prima con il post-doc in USA, ed ora qui in Italia, mi sono lanciato nel problema della radiobiologia delle basse dosi, la cui implicazione che piu' mi affascina sono gli effetti di lungo termine nei malati di tumore che sono sopravvissuti grazie alla radioterapia. Dunque, se e' vero che mi sono laureato in fisica, sono oramai dieci anni che faccio il mestiere del biologo cellulare (da cui la domanda "_Ma che cosa ci fa un fisico con il camice?_")
+
+Ma la mia metamorfosi sembra non esser finita qui. Dopo l'Italiano, l'Inglese ed il Napoletano, pare che adesso debba imparare una nuova lingua, quella della "trascrittomica":http://en.wikipedia.org/wiki/Transcriptomics. Rifacendomi alla definizione di Wikipedia...il trascrittoma e' il set completo di tutti gli RNA messaggeri, trascritti dai corrispondenti geni, in una popolazione cellulare, in un dato momento.  Il genoma rimane costante, a meno di mutazioni; il trascrittoma no, ma se ne puo' fare un'istantanea. 
+
+Siamo giunti ad una fase interessante dell'esperimento. Abbiamo gia' dei dati incoraggianti, ed ora, per capirci di piu', ci accingiamo a studiare il trascrittoma delle cellule dell'esperimento, per ciascuna delle condizioni sperimentali sotto esame. Dunque, la scorsa settimana ho realizzato quattro repliche dell'esperimento base, custodendo i campioni in freezer, a -80 gradi centrigradi[1]. 
+
+!http://www.galileonet.it/postdoc/images/20t.jpg!
+_Esperimento di estrazione RNA per cDNA microarray. Prima replica biologica._
+
+Da domani, Martedi, comincero' ad isolare lo RNA totale da questi campioni. Poi sara' il momento del controllo di qualita' dello RNA estratto, e se tutto sara' andato bene...i campioni saranno spediti a dei collaboratori, che effettueranno delle misure con una tecnica che non abbiamo qui con noi, i cDNA Microarray. Circa un mese dopo, questi collaboratori dovrebbero inondarci di _trascrittomi_. Delle decine di migliaia di geni umani, il risultato sara' un tabulato contenente il livello di trascrizione, per ciascun gene, indicando come questo varia nella condizione A, rispetto alla condizione B. Da quella tabellina di 30,000 righe...bisognera' tirarne fuori un _senso_: usando tecniche di bioinformatica, occorrera' analizzare l'espressione genica per stabilire quali pathways (che coinvolgono molti geni) si sono attivati in una condizione rispetto all'altra; in che cosa, da un punto di vista funzionale, i campioni differiscono tra loro. Sara' davvero un tuffo verso un mondo nuovo, per me inesplorato. Occorrera' studiare, e a chi non fa questo mestiere suona sempre strano quando sente che uno, per lavorare, deve mettersi a studiare. Per la piattaforma di bioinformatica e per l'analisi di questi trascrittomi, ho previsto l'acquisto di un nuovo computer - quello da cui vi scrivo, fedelissimo, purtroppo sta per lasciarmi - piu' un disco esterno, da 500Gb, per archiviare questa montagna di dati ed i risultati della loro elaborazione. 
+Magari, in questa avventura verso il la biologia molecolare-trascrittomica-bioinformatica, il mio passato di fisico mi tornera' di nuovo utile.
+
+fn1. Adesso in freezer ci sono _288_ provette con campioni di cellule, tutte indicizzate a mano e pronte per averne lo RNA estratto! (Speriamo non manchi la corrente)
