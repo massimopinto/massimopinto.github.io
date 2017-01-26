@@ -1,0 +1,11 @@
+---
+layout: post
+title: Source Event
+tags: []
+---
+
+![](http://www.nature.com/naturejobs/sourceevent/images/tse-logo.gif)
+
+Due grandi eventi per ricercatori in erba. [The Source Event](http://www.nature.com/naturejobs/sourceevent/index.html) a Londra, 25 Settembre 2009; Berlino, 4 Dicembre 2009.
+
+Le lezioni offerte nei 'raduni' del 2007 e 2008 sono raccolte in [podcasts](http://www.nature.com/naturejobs/sourceevent/podcast.html) scaricabilli gratuitamente.

@@ -1,0 +1,31 @@
+---
+layout: post
+title: Nobel ed IgNobel del 2008
+tags: []
+---
+
+Oggi, alle 11:30, verra' annunciato il primo dei [premi Nobel del 2008](http://nobelprize.org/index.html), quello per la Medicina e la Fisiologia. Martedi sara' la volta della Fisica. L'ultimo sara' annunciato tra una settimana, per l'Economia.
+Secondo [Martin Fenner](http://network.nature.com/people/mfenner/profile), uno dei bloggers piu' attivi sul Nature Network, Judah Folkman avrebbe potuto vincere, questo'anno, il premio Nobel per la Medicina, per i suoi studi sull'Angiogenesi. Come lo stesso [Martin sottolinea](http://network.nature.com/people/mfenner/blog/2008/10/05/someone-who-should-have-won-a-nobel-prize), tuttavia, il premio Nobel deve essere assegnato ad uno scienziato/umanista/economista vivente, e Judah Folkman ci ha lasciati lo scorso Gennaio. Mi ritengo fortunato di averlo visto relazionare due volte, entrambe negli USA.
+
+Giovedi scorso, invece, dall'altra parte dell'Oceano Atlantico, piu' precisamente ad Harvard, sono stati assegnati gli [Ig Nobel Awards](http://improbable.com/2008/10/03/the-2008-ig-nobel-prize-winners/).
+Sylvie Coyaud [ne ha parlato](http://ocasapiens.blog.dweb.repubblica.it/2008/10/03/patatine-e-lhc/) sul suo blog, sottolineando che uno dei vincitori viene dal Bel Paese, con uno studio su come rendere piu' piacevole il suono delle patatine che crocchiano sotto i nostri denti. Anche l'orecchio, evidentemente, vuole la sua parte, ed i bambini lo sanno benissimo.
+
+Gli IgNobels sono istituiti affinche'
+
+> ...la gente rida, per poi riflettere.
+
+e non so che cosa ci sia di piu' bello che rendere la scienza *divertente*. Un paio di anni fa, uno degli IgNobels fu assegnato ad un ricercatore che invento' una sveglia che corre via quando suona l'allarme. Cosi', se vuoi farla zittire, sara' meglio che ti alzi dal letto. Magnifico. Qualcuno - sia benedetto - ha pensato di metterla in produzione: la trovate al museo del MoMa, a New York, in uno dei suoi negozi[1].
+
+![](http://www.momastore.org/wcsstore/MOMASTORE1/images/l_74856.jpg)
+
+Se riuscite, cercate di seguire i podcast ed i videocast che appariranno nei prossimi giorni sugli IgNobels. Metto giu' una lista - sicuramente non completa - dei podcast che piu' probabilmente tratteranno l'argomento degli IgNobels 2008.
+
+-   NPR Science Friday del bravissimo Ira Flatow. [Podcast](http://www.sciencefriday.com/?ft=2&f=510221).
+-   Science Weekly del Guardian. Tra i miei preferitissimi. [Podcast](http://www.guardian.co.uk/science/series/science).
+-   Il Nature [Podcast](http://www.nature.com/nature/podcast/)
+-   I Videocast ufficiali da Harvard, sul sito di [Improbable.com](http://improbable.com/ig/winners/)
+
+<iframe width="150" src="http://nobelprize.org/feeds/widget/long.php" height="578" scrolling="no" frameborder="no" style="border: 0px">
+</iframe>
+
+[1] Ce ne sono [diversi](http://www.momastore.org/museum/moma/ContactView?langId=-1&storeId=10001&catalogId=10451&promoCode=null#store). Uno si trova di fronte al museo, dalla parti della 53rd st e 5th Avenue. L'altro e' a SoHo.

@@ -1,0 +1,16 @@
+---
+layout: post
+title: Evidenza amara per i carbon-scettici?
+tags: []
+---
+
+Qualche giorno fa [raccontavo](http://www.galileonet.it/postdoc/article/192/sale-la-temperatura-in-protomoteca-sara-la-co2) su questo blog della strana giornata trascorsa in Protomoteca del Campidoglio, quando i relatori invitati si alternavano sul podio con visioni discordanti in merito alla responsabilita' dell'uomo nei confronti dell'effetto serra. Ho continuato a riflettere, nei giorni passati, sulla natura del disaccordo. Non sono un climatologo, ma e' vero che, da qualche secolo a questa parte, le evidenze scientifiche possono servire come base per il contradditorio in fatto di effetto serra e responsabilita' umane. Il quesito piu' significativo in questo ambito e' se la CO<sub>2</sub> sale per colpa dell'industrializzazione ed il conseguente uso di combustibili fossili, o salirebbe comunque, anche se fossimo rimasti all'era pre-industriale. Questo giornale e' molto sensibile al tema CO<sub>2</sub>, come si evince dalla copiosa mole di [articoli pubblicati sul tema](http://www.galileonet.it/search/?q=CO2).
+
+Nei giorni seguenti l'incontro al Campidoglio mi sono imbattuto nel Nature Podcast[1] del 24 Settembre 2009 che riporta una breve intervista ad uno degli autori di un articolo[2], pubblicato su *Nature*, a proposito delle emissioni di CO<sub>2</sub> per opera umana durante l'Olocene (da 11,000 anni or sono ai giorni recenti). L'articolo conclude che l'attivita' umana in eta' pre-industriale non puo' avere influenzato il debole aumento di CO<sub>2</sub> che si e' registrato durante l'Olocene (20 parti per milione di CO<sub>2</sub>, [ppm](http://earthguide.ucsd.edu/virtualmuseum/Glossary_Climate/gloss_a-f.shtml#concunits)). Negli ultimi 150 anni di epoca industriale, invece, l'innalzamento di CO<sub>2</sub> sembra essere dell'ordine di 100 ppm, ma i carbon-scettici sostengono che questo non c'entri nulla con l'attivita' dell'uomo industrializzato. Intervistato nel podcast, Elsig afferma, verso la fine dell'intervista, che l'innalzamento di CO<sub>2</sub> dei tempi piu' recenti e' inequivocabilmente di origine carbon-fossile, alla faccia dei carbon-scettici. Tale affermazione sorge dalle misure dei rapporti tra gli [isotopi stabili](http://earthguide.ucsd.edu/virtualmuseum/Glossary_Climate/gloss_a-f.shtml#carbonisotopes) dell'atomo di carbonio presente nella CO<sub>2</sub>, il <sup>12</sup>C ed il <sup>13</sup>C. Nel podcast, Elsig ha avuto solo il tempo di dire che il rapporto <sup>13</sup>C/<sup>12</sup>C porta la 'firma' della provenienza del Carbonio. Traducendo allora da [qui](http://earthguide.ucsd.edu/virtualmuseum/climatechange1/03_2.shtml):
+
+> I materiali che vengon bruciati per produrre energia (quali legno, carbone e idrocarburi) sono piu' ricchi di <sup>12</sup>C di quanto ce ne sia dissolta negli oceani. Dunque, una variazione del rapporto <sup>13</sup>C/<sup>12</sup>C (nel mare, N.d.T.) e' indice di progressiva invasione di CO<sub>2</sub> di origine industriale dall'atmosfera verso la superficie oceanica.
+
+[1] [Nature Podcast, 24 Settembre 2009](http://www.nature.com/nature/podcast/index-2009-09-24.html)
+
+[2] Joachim Elsig *et al.* Nature 461, 507-510 (24 September 2009),
+[Stable isotope constraints on Holocene carbon cycle changes from an Antarctic ice core](http://dx.doi.org/10.1038/nature08393)

@@ -1,0 +1,21 @@
+---
+layout: post
+title: !binary |-
+  UXVhbnRvIMOoIG5hdHVyYWxlIGxhIHJhZGlvYXR0aXZpdMOgPw==
+tags: []
+---
+
+Questa mattina, all'Accademia Reale delle Scienze di Stoccolma, il seminario di apertura della giornata di studio sul futuro della ricerca in radioprotezione è stato tenuto della Professoressa Drottz-Sjöberg, una psico-sociologa con un forte interesse nel tema della comunicazione del rischio al grande pubblico. La Drottz-Sjöberg ha raccontato come il grande pubblico percepisce le radiazioni come rischiose, e dell'importanza di informarlo in tema di radiazioni ionizzanti. Come molti di voi sapranno, lo spettro della bomba atomica prima e di Chernobyl poi incombe ancora sulla memoria umana, influenzandone la percezione sui rischi delle radiazioni ionizzanti. Rifletto qui su alcuni dati mostrati su una diapositiva della Drottz-Sjöberg.
+
+1) Più donne che uomini percepiscono le radiazioni ionizzanti come rischiose. Mmmm.
+
+2) Secondo il grande pubblico, in ordine decrescente di 'naturalezza' ci sono i campi di grano[1], seguiti dall'intelligenza umana, dall'uranio, dalla radioattività, dal virus dello AIDS, poi dalla stupidità umana, fino alle robacce più inquinanti che pochi davvero sarebbero disposti a credere siano prodotti naturali.
+Curioso come l'uranio sia percepito come più naturale delle radiazioni e come la stupidità sia percepita come meno naturale dell'intelligenza umana. Ovvero: della stupidità siamo responsabili, mentre l'intelligenza sarebbe un dono.
+
+3) Chi vive in aree con maggiore radioattività ambientale ha corrispondentemente meno radioattività nel proprio corpo (di origine alimentare). Evidentemente, l'informazione sulle radiazioni ionizzanti aiuta la cittadinanza a capire che in aree a maggiore radioattività ambientale è opportuno evitare di cibarsi di carne di cacciagione (si portava l'esempio di [renne](http://www.galileonet.it/postdoc/article/201/filetto-di-renna) ed alci, ops) e di frutti di bosco.
+
+4) Nell'Europa dei 27, nei paesi in cui si fa già uso di energia nucleare, il 54% della popolazione è favorevole alla costruzione di altri reattori (media di più paesi). Nei paesi in cui non si fa uso di energia nucleare, la pecentuale si dimezza al 27%. Questo non dovrebbe sorprendere (chi conosce non teme) ma il dato mi pare davvero schiacciante. Chi volesse cercare di reintrodurre (ove sia stata precedentemente interrotta) energia nucleare in un paese attraverso un referendum popolare torverebbe dinanzi un muro.
+
+Domattina presto si rientra a Roma. Ho rinunciato al filetto di Alce, stasera.
+
+[1] I dati sono stati mostrati come percentuali dei rispondenti. Per esempio: il 70% dei rispondenti al test ha dichiarato che l'intelligenza umana è una cosa naturale. Quando gli è stato chiesto dell'Uranio, solo il 50% avrebbe risposto che si tratta di una cosa naturale.

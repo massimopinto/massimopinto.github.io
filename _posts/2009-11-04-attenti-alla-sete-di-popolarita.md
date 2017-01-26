@@ -1,0 +1,14 @@
+---
+layout: post
+title: !binary |-
+  QXR0ZW50aSBhbGxhIHNldGUgZGkgcG9wb2xhcml0w6A=
+tags: []
+---
+
+L'editoriale della rivista *Nature* della scorsa settimana[1] cita un recentissimo episodio di annuncio prematuro di 'successo' della ricerca, quello della sperimentazione in Tailandia di un vaccino contro il virus dello HIV. La diffusione dei risultati della sperimentatione clinica era stata data il 24 Settembre, giorno di festa Nazionale in Tailandia, perché ai Tailandesi era stato promesso che avrebbero saputo per primi dei risultati dello studio. Quando anche la comunità scientifica ha avuto accesso ai risultati, sono saltate fuori le prime magagne. Ed ora come glielo racconti al popolo Tailandese? Bisogna andarci cauti con le conclusioni quando si comunica al grande pubblico, che rischia di perder fiducia nella ricerca. Ci sono mille tranelli in agguato, e ne vale sia la credibilità dei ricercatori sia la sensibilità del pubblico. Secondo *Nature*:
+
+> La tentazione dei ricercatori e dei loro istituti di ricerca di spingere la propria ricerca nei canali mediatici, o di ricercarne pubblicità, è sempre presente. \[...\] Questa pratica deteriora il processo di comunicazione della scienza. Gli Istituti di ricerca non devono consentire che diventi la norma.
+
+In tempi di follia pubblica sull'influenza H1N1, questo *memento* sembra particolarmente puntuale.
+
+[1] Mind the spin, *Nature* [Vol 461, 1174 (29 October 2009)](http://dx.doi.org/10.1038/4611174a)

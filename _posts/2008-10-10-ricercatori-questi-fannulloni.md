@@ -1,0 +1,25 @@
+---
+layout: post
+title: Ricercatori, questi fannulloni
+tags: []
+---
+
+Ogni tanto vengono fuori delle storie orribili sui concorsi Universitari truccati, le umiliazioni e tutti gli ingredienti a contorno. Alcuni mesi fa [raccontai](http://network.nature.com/blogs/posts/search?q=Italian+academia+goes+to+court) una storia, pescata su *La Repubblica*, di uno di questi casi, portati in Tribunale. La storia coinvolgeva l'oncologo M. Federico ed il dermatologo G. Pellacani, il figlio del Rettore dell'Universita' di Modena.
+
+Pochi giorni fa [accennavo](http://www.galileonet.it/postdoc/article/51/indecisioni) al decreto 'ammazza precari', secondo il quale verrebbe interrotto il processo di stabilizzazione dei precari della ricerca, parte dei quali potrebbe essere assunta solo a tempo indeterminato attraverso i concorsi pubblici. Roba rivoluzionaria, insomma. Ci sarebbe da sperare che questi concorsi siano fatti bene, e che selezionino i migliori, senza pregiudizi e percorsi privilegiati.
+
+Chiamo allora in causa Tito Boeri, che ha scritto, su *La Repubblica* dello scorso Venerdi, [un articolo](http://ricerca.repubblica.it/repubblica/archivio/repubblica/2008/10/03/ateneo-al-voto-tra-parenti.038l.html) sull'argomento concorsi e carriera Accademica nel *Bel Paese*. Boeri accenna alla pubblicazione del Libro *Universita' Truccata*, che mancava al [mio appello](http://network.nature.com/blogs/posts/search?q=Italian+academia+goes+to+court) di Gennaio '08 ai libri sugli scandali, sprechi e soprusi di cui abbondano gli scaffali delle nostre librerie. In Gennaio, la mia previsione per il titolo di un libro su questo argomento era *Universitopoli*, che pure non sarebbe stato male, come titolo. Boeri:
+
+> *...Perotti (l'autore del libro) ha anche compiuto un lavoro certosino di censimento dei concorsi universitari in Economia dal 1999 al 2007, scoprendo che il fattore di gran lunga più importante nel successo in questi concorsi è l' appartenenza allo stesso ateneo che ha indetto il concorso.*
+
+E' il fenomeno dell'*inbreeding*, la cui conseguenza, per esempio, e' la quasi assenza di ricercatori stranieri, di ruolo, nei nostri atenei ed enti di ricerca (Boeri riporta l'1%).
+
+[La risposta](http://ricerca.repubblica.it/repubblica/archivio/repubblica/2008/10/07/nelle-universita-non-solo-nepotismo.html) che Boeri ha ricevuto sullo stesso giornale, il 7 Ottobre, a firma di Piero Marietti, sottolinea che il problema non e' certo solo l'Universita'. Tutto torna: i ricercatori sono equiparati all'Amministrazione Pubblica, dunque *fannulloni*. Tanto vale mandarli tutti a casa, cosi' l'Amministrazione Pubblica...ahem volevo scrivere la Ricerca Scientifica, ne sara' svecchiata. Detto da una prospettiva diversa...se le proteste dei ricercatori non sortiscono alcun effetto e' perche' raccontano problemi di cui tanti Italiani soffrono, e di cui sono stufi.
+
+Perbacco, che malloppone di post che vi ho scaricato di Venerdi sera. E' tutta colpa di Gennaro, che mi ha segnalato l'articolo di Boeri!
+Vado a versarci su un po' di vino con degli amici di lavoro.
+
+Un paio di risorse sull'argomento precari e ricerca, fresche di questa settimana.
+
+-   [Video](http://video.corriere.it/?vxSiteId=404a0ad6-6216-4e10-abfe-f4f6959487fd&vxChannel=Dall%20Italia&vxClipId=2524_2303cd56-96d6-11dd-9911-00144f02aabc&vxBitrate=300) di una delle manifestazioni recenti
+-   [Podcast](http://www.formicablu.it/fmblue/index.php?id=313) di FormicaBlu.

@@ -1,0 +1,15 @@
+---
+layout: post
+title: CERRO Baby
+tags: []
+---
+
+Mi trovo a 2,000 metri, nell'Hotel [L'Ours Blanc](http://www.hotel-ours-blanc.com/gb.html), a Les Menuires, per la Conference on Clinical and Experimental Research in Radiation Oncology (CERRO). C'e' internet Wi-Fi in ogni stanza. E' la mia prima volta a questo congresso, e per questo sono stato chiamato un CERRO Baby, uno ancora da svezzare, insomma.
+
+Il programma della conferenza e' piuttosto atipico. Al mattino presto si ascoltano le relazioni scentifiche. Poi si fa un break, e tutti insieme, organizzati in gruppi, si va a sciare. Si scende insieme lungo le piste, poi si chiacchiera un po' in seggiovia...una chiacchiera tira l'altra ed intanto parli del tuo esperimento, dei progetti, delle collaborazioni...si pranza poi tutti insieme, si continua a sciare un altro pochetto e poi si torna in hotel per la sessione scientifica serale. Si cena tutti insieme, e poi ancora al bar al caminetto, a continuare a parlare. Sono qui da poche ore ma mi sono gia' chiesto chi e' il genio che ha pensato a questa formula congressuale. Mai visto niente di simile. Il mio contributo e' previsto per la sessione di Giovedi' pomeriggio, dedicata agli effetti della radioterapia nei tessuti adiacenti il tumore.
+
+Ieri sera sono arrivato in tempo per cena, dove ho incontrato dei vecchi amici, ed amici di cari amici che mi e' sembrato di conoscere gia'. Un po' di vino rosso...e mi sono trovato presto ad affrontare, con Adrian Begg, Inglese residente ad Amsterdam, gli aspetti piu' salienti dell'esperimento su cui lavoro a Roma.
+
+[Questa](http://www.webcam-ski.com/webcams/interfaces/OursBlanc/interface.php?pk_interface=78&m=images&r=panoramique) e' la vista dall'albergo, in tempo reale.
+
+Scappo a fare colazione. Mi informero' sul nome del genio.

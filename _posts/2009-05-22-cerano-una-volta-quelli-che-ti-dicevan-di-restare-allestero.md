@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'C''erano una volta quelli che ti dicevan di restare all''estero '
+tags: []
+---
+
+Nel cortile dello *Aspromonte Research Center*, Ester Ofila e Libero Mobile sorseggiano un te'. E' la primavera dell'anno 2036.
+
+*Ester Ofila*: Sai, Libero, ho trovato una copia di un email scritta, trent'anni fa, da mio papa' ad un suo amico che allora viveva in Austria. Dipinge un quadro agghiacciante, inconcepibile oggi.
+
+*Libero Mobile*: Le solite storie di ingiustizie alla maniera della vecchia Italia?
+
+*EO*: piu' o meno...te ne leggo un pezzo, dai.
+
+> \[...\] Secondo me, Italo, avendo a disposizione un posto di lavoro sicuro, senza dover stare li' con i contratti che scadono a che non sai fino a poco prima se te lo rinnovano, sarebbe difficile decidere di non volere stare in Italia. Dopotutto, e' proprio un bel posto. Ma questi posti di lavoro sicuri sono rarissimi. Ed anche quando te lo promettono, un posto permanente, non ti puoi mai fidare davvero. Se qualcuno ti da' garanzie, stai certo che e' in mala fede. Con cinismo, si arriva a prendere atto della abnormita' del sistema. Accettarlo e' piu' difficile, e credo che ci riescano in pochi. Venire in Italia senza *tenure* significa trasformarsi, la traduzione ha luogo proprio mentre varchi il confine, in quello che qui si chiama *precario*. Nel momento in cui diventi un precario, sei uno qualsiasi nella mischia. A quel punto o ti procuri un buon mentore, una persona che con il massimo impegno - dichiarato ed appassionato - cerca di sostenerti nella carriera, lasciandoti emergere come ricercatore indipendente e dandoti la possibilita' di farti conoscere, ritagliandoti la tua schiera di collaboratori, avere un'identita' tua, scrivere progetti di ricerca da sottoporre per ottenere dei finanziamenti, come leader, o sara' bene che costruisca un piano B. Lasciato a te stesso, senza una guida, potrai fare poco uso della tua esperienza maturata all'estero. Rispetto ai tuoi concorrenti, in sede concorsuale, vedrai strappati via i tuoi anni spesi fuori. Con delle regolette piu' o meno legittime, al limite dell'integro, ti butteranno via dalla competizione. Lo faranno attribuendo punteggio *zero* ai tuoi lavori, alla tua esperienza, secondo una logica che ti sembrera' assurda, figlia smarrita del buon senso. Sara' frustrante assai, e ti sentirai messo su un binario, altro che *tenure-track*, per convogli lenti. Piu' lenti, forse, di quelli che sono stati a casuccia, per loro scelta o necessita'.
+
+> Per come sei fatto tu, non credo che potresti tollerare un'offesa simile, e probabilmente te ne andrai via di nuovo. Tra le sensazioni piu' frustranti, ti renderai conto di non essere piu' padrone del tuo futuro. Le regole varranno fino a dove potranno essere infrante, non ci sara' una struttura di carriera tale che, seguendola con impegno, avrai delle garanzie. Certo e' che senza impegno andrai comunque poco lontano. Occorrera' che tu t impegni molto, rendendoti disponibile, ma per risolvere i problemi degli altri, di quelli che prepotentemente si saranno eletti a tuoi superiori, non per seguire la tua linea di ricerca, come fai adesso a Salisburgo, da Post-doc. E comunque, anche questo non varra' come garanzia di crescita professionale, ma e' l'unica cosa che davvero ti resta da fare per restare a galla. Il tuo unico salvagente.
+
+> Se vuoi il mio parere, tornare in Italia con la speranza di fare carriera scientifica e' un'illusione. Tornare senza *tenure* e' una follia ai limiti dell'irresponsabile. Se lo fai per motivi di famiglia, lo capisco. Ma per carriera, Italo mio, ti sbagli. Avrai sempre il tempo di andare via di nuovo, certo, perche' questa valvola e' sempre aperta e sai bene quanto sarai apprezzato, di nuovo, all'estero. Con affetto, Amerigo.
+
+*LM*: Ma io non capisco.
+
+*EO*: Lo so. E' per questo che te l'ho letta.
+
+*LM*: Non capisco che interessi aveva la gente a comportarsi cosi'. Perche' sprecare talento in questo modo?
+
+*EO*: Io posso darti la mia opinione. Al tempo dei nostri genitori, c'era uno scarso senso dello Stato, e nemmeno era cosa nuova. Tutto cio' che era pertinente la *res publica* era visto come qualcosa di cui servirsi, piuttosto che un progetto comune da servire. Non c'era interesse a fare del proprio meglio. Era piu' semplice trarre a proprio vantaggio quanto si poteva. E le squadre in gioco erano tante. Le Dirigenze, i Sindacati, i Ministeri...una baraonda.
+
+*LM*: Mah...ma poi quell'Italo, l'amico di tuo papa', ci torno' in Italia?
+
+*EO*: Non ne sono sicura. Credo che torno' ma resto' poco, perche' nel frattempo era diventato *Assistant Professor* li' in Austria, ma a Vienna, invece che a Salisburgo. Quando cerco' di negoziare qualcosa di meglio in Italia, gli chiesero "negoziare?"
+Torno' in Austria e non se ne penti'.
+
+*LM*: Vienna...ci vado il mese prossimo. Il Direttore del dipartimento di Semantica vuole cercare di collaborare con noi qui all'Aspromonte. Il capo manda me per discutere dei dettagli della collaborazione. Sul prossimo *grant* dovrei essere io il *principal investigator* per la parte Italiana del lavoro.
+
+*EO*: Si vede che hai un buon mentore. 8-}

@@ -1,0 +1,16 @@
+---
+layout: post
+title: "'Rock around the clock' al microscopio"
+tags: []
+---
+
+...ballato dalle cellule pilifere, nelle orecchie...
+
+<object width="425" height="344">
+&lt;param name="movie" value="http://www.youtube.com/v/Xo9bwQuYrRo&hl=en&fs=1"&gt;</param><param name="allowFullScreen" value="true"></param>&lt;embed src="http://www.youtube.com/v/Xo9bwQuYrRo&hl=en&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"&gt;</embed></object>
+
+Che meraviglia deve essere il lavoro del ricercatore che si occupa di queste misure.
+
+> Ragazzi, andate pure voi a prendere il caffe', io non vengo perche' ho messo su i Red Hot Chilli Peppers alle cellule e stanno succedendo cose incredibili!
+
+Buon Ferragosto

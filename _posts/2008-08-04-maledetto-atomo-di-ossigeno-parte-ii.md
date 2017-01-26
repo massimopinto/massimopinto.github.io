@@ -1,0 +1,11 @@
+---
+layout: post
+title: Maledetto atomo di Ossigeno (parte II)
+tags: []
+---
+
+Il rientro in laboratorio dopo il mio [disastro](http://www.galileonet.it/postdoc/article/14/maledetto-atomo-di-ossigeno) della deossicitidina fu piuttosto veloce. La pagina del 22 Aprile 2005 del mio quaderno di laboratorio denuncia, semplicemente, un "qui comincia (l'uso della) deossicitidina".
+![](http://www.galileonet.it/postdoc/images/3.jpg)
+I passati cinque mesi di esperimenti condotti per errore con la citidina non andarono pero' buttati al vento. E' vero allora che non si butta mai via tutto, anche quando si e' commesso un errore grave. Nel frattempo, infatti, nel corso degli esperimenti con la citidina, avevo imparato un mucchio di altre cose che poi culminarono con un manoscritto, e ci volle pochissimo a rimettersi in riga con la deossicitidina.
+
+Il segno piu' forte lasciato da quella esperienza fu il contatto umano con il mio mentore. Avrebbe potuto umiliarmi, dimostrarsi seccato, deluso, visto che anche lui, attraverso l'errore che avevo causato, aveva perso molto tempo (e denaro). Invece fu propositivo, da gran mentore che e', forse perche' anche lui ebbe commesso un grave erroro quando era piu' giovanotto, in laboratorio, ed immaginava come mi sentivo io dinanzi a cio' che avevo appena commesso. Che gran fortuna aver conosciuto Roger.

@@ -1,0 +1,18 @@
+---
+layout: post
+title: Eventi scientifici settembrini nell'Urbe
+tags: []
+---
+
+Giro per Roma in scooter e noto numerose pubblicita' di eventi a tema scientifico in programma nella Capitale per questo mese.
+
+Oltre all'EcoFest di Frascati, appena trascorso, ci sono in citta':
+
+*La Notte dei Ricercatori*, a Frascati **dal 19 al 26 Settembre**, a cura dei maggiori enti di ricerca scientifica italiani. Scientists Around Youth, <http://www.frascatiscienza.it/pagine/notte-europea-dei-ricercatori-2009/>. Se ne e' parlato anche su questo [Giornale](http://www.galileonet.it/agenda/11747/la-settimana-della-scienza-2009)
+
+*Anno 2050, Quale Energia? La risposta e' scritta nella terra*, alla [Centrale Montemartini](http://www.centralemontemartini.org/) **dal 25 Settembre al 18 Ottobre** in via Ostiense, a cura dell'ENEA. Questo evento fa parte di una manifestazione a piu' ampio respiro che si chiama *Festival Internazionale dell'Ambiente*, **dal 25 al 28 Settembre** tra il Campidoglio, L'Ara Pacis, la Casa del Cinema e la Centrale Montemartini. <http://www.festivaldellambienteroma.com/>
+
+Ho pensato allora di fare un salto alla segreteria della scuola di mio figlio, stamattina, per chiedergli di considerare di portare i ragazzi a qualcuno di questi eventi. Mi hanno detto che quest'anno sara' molto difficile portare i bambini in gita fuori dalla scuola, perche' con la nuova riforma scolastica non ci sara' la compresenza di due insegnanti per classe, ed il limite legale per poter portare i ragazzi in gita fuori scuola e' 15 alunni per ciascun insegnante. Chissa' se ci avevano riflettuto, gli addetti ai lavori che hanno pensato a questa riforma.
+
+![](http://riflessioniquotidiane.files.wordpress.com/2009/06/barzellett-gelmini2012.jpg?w=500&h=338)
+(vignetta tratta da [qui](http://ricercatoriprecari.wordpress.com/2009/09/14/si-vota-per-lelezione-delle-commissioni-dei-concorsi-universitari/))

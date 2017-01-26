@@ -1,0 +1,8 @@
+---
+layout: post
+title: Bozze &#38; risposte
+tags: []
+---
+
+Altro che letterine a Babbo Natale: insieme con i miei colleghi di lavoro si fa poco altro che scrivere bozze per due pubblicazioni scientifiche, definite in altrettante riunioni che rosicchiano gran parte della giornata. Se verranno giudicate meritevoli dai nostri pari, questo sarà stato il coronamento di un periodo fruttuoso. Abbiamo discusso anche dell'esito di un altro 'manoscritto' (in tempi antichi, forse, il nome era pertinente), inviato a giudizio pre-pubblicazione lo scorso Ottobre, e che evidentemente è [piaciuto poco](http://www.galileonet.it/postdoc/article/217/maluccio-per-noi-meglio-per-altri). Il giudizio dei nostri pari (anonimi) e dell'editore della rivista è insindacabile, ma alla volte può essere utile mandare una lettera di ricevuta al loro referto, in cui si ringraziano i pari che ci hanno giudicato, per il tempo che hanno dedicato alla lettura critica del lavoro.
+Si può anche commentare il giudizio negativo che è stato emesso. Se ben articolata, questa 'contro-valutazione' potrebbe anche migliorare il processo di *peer-review*. Nel caso dell'articolo che ci è stato bocciato, avremmo potuto rispondere (e modificare il testo in modo adeguato) a molte delle domande e critiche che erano state sollevate dai revisori. Se solo ce l'avessero permesso, perché il rigetto è senza condizioni. E' il vecchio problema del 'chi giudica i giudici': come revisore, mi è capitato di consigliare il rigetto di un manoscritto, e la sensazione mi era scomoda: bocciavo senza nemmeno poter ascoltare l'opinione del bocciato. E se fosse stato il mio giudizio a meritare la bocciatura?

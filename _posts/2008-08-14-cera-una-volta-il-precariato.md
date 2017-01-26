@@ -1,0 +1,30 @@
+---
+layout: post
+title: C'era una volta il precariato
+tags: []
+---
+
+Corridoio di un'Universita' Italiana. Corre la primavera dell'anno 2034.
+
+> *Ester Ofila:* Allora hai deciso che molli il post-doc?
+
+> *Libero Mobile:* Non e' mica un disastro, Ester. Stacco solo un po' - ho pubblicato gia' molto bene - e vado in giro per l'Asia. Tanto, tra un annetto, non avro' nessun problema a trovare di nuovo lavoro da qualche altra parte
+
+> *EO:* Noi si che siamo fortunati. Il mio papa' mi racconta che, lui, piu' che un post-doc si definiva un *precario*, uno che sperava in un posto fisso e che non sapeva quando l'avrebbe preso
+
+> *LM:* Posto fisso? Ma oggi quasi nessuno lo cerca piu'! E nessuno piu' si definirebbe un precario. Semmai, si ritiene di essere in formazione, in transito verso qualcosa di meglio, magari con piu' indipendenza, con una paga migliore. Ma tu hai mai capito come e' avvenuta questa transizione verso il contesto che viviamo oggi?
+
+> *EO:* Libero, da quello che ho capito, si inizio' con alcuni tentativi sparsi di introdurre valutazioni di merito. Alcune agenzie - le piu' piccole - cominciarono a finanziare solo i migliori progetti, ricorrendo alla revisione con arbitri internazionali. Furono in grado di gestire contemporaneamente sia il budget, sia la valutazione. Non esisteva una parola italiana per questo tipo di procedura, per cui la si chiamo' semplicemente *peer review*, come del resto la chiamavano tutti. L'abilita' Italiana fu copiare il meglio di ciascun modello straniero, evitando di ripetere gli errori gia' commessi da altri. L'effetto fu veloce e contagio' via via le agenzie piu' grosse. La Scienza e la ricerca diventarono come lo Sport.
+
+> *LM:* Embe'? Che c'e' di strano?
+
+> *EO:* Ma guarda che un tempo mica era cosi'! Fu una vera svolta. Chi vinceva i finanziamenti poteva scegliere di assumere solo i ragazzi piu' in gamba. Un po' alla volta, i giovani ricercatori compresero che, piu' che precari, erano liberi di muoversi dove volevano, e che piuttosto che restare a lungo in uno stesso luogo, senza crescere, potevano fare delle esperienze di formazione eccellenti anche in Italia. Aumentarono anche i fondi, per lo piu' privati.
+
+> *LM:* Ed i famosi cervelli in fuga?
+
+> *EO:* Ad un certo punto smisero di fare notizia, per quanto sappiamo bene che tantissimi sono quelli che trascorrono qualche anno all'estero, per lo piu' in Cina, in India, ed in Canada. Adesso pare che i migliori post-doc si facciano in Malesia, dove gli stipendi sono buoni, i benefici per le famiglie ottimi. Ma le opportunita' fioccarono anche in Italia. Ed arrivarono
+> anche tantissimi stranieri.
+
+> *LM:* Il mio capo ha detto che fece domanda per un posto di professore Associato e che vinse in due Universita'. Scelse questa perche' la moglie amava poco le grandi citta'. E riusci' anche a portare con se' il suo finanziamento Canadese.
+
+> *EO:* Che storia. Oggi vengono qui da ogni parte del mondo per formarsi, anche perche' il nostro paese e' bellissimo.

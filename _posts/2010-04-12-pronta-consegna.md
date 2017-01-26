@@ -1,0 +1,11 @@
+---
+layout: post
+title: Pronta consegna
+tags: []
+---
+
+Qualche anno fa un'amica e collega di studi universitari mi stupì per la sua scelta di lanciarsi nella ricerca in terapia genica (gene terapy), un'area che sembrava allora straordinariamente promettente, con la quale si ambiva a lottare contro malattie usando 'DNA-contro-DNA'. Ad armi pari, insomma. Gli esperti in terapia genica potranno confutarmi, e ne sarei ben lieto, ma l'impressione che ho maturato in questi anni è che la terapia genica funziona benone *in vitro*, ma meno bene in un organismo. Non è colpa della terapia genica: ogni terapia mirata, che sia più o meno basata su approcci molecolari, ha il problema della 'consegna': come fare arrivare il farmaco lì dove si vuole, in un organismo vivente, in un organo malato, in un tumore.
+Ed allora bisognerebbe accogliere con entusiasmo la ricerca del gruppo di Erkki Ruoslahti[1] su un peptide (una proteina) che assiste un farmaco nella scalata verso il suo bersaglio. [L'editoriale](http://news.sciencemag.org/sciencenow/2010/04/new-peptide-helps-cancer-drugs-b.html) su *Science* canta le lodi di questo lavoro, perché il peptide usato dal gruppo di Ruoslahti si é dimostrato già molto efficace in tumori 'ospitati' in topini. Quando il peptide viene somministrato insieme a dei farmaci anti-cancro, questi arrivano più facilmente al bersaglio. Mica una cosa da poco, se si pensa che un limite terapeutico è la tossicità. Se questo approccio funziona come sembra, si può somministrare meno farmaco con lo stesso effetto sul cancro, ma meno effetti collaterali. Il meccanismo, è spiegato, si basa sulla vasodilatazione, proprio dei vasi sanguigni che approvvigionano il tumore, e che consentirebbe al farmaco di accedere al tumore con più agio.
+E' anche interessante leggere [i commenti](http://news.sciencemag.org/sciencenow/2010/04/new-peptide-helps-cancer-drugs-b.html?etoc) che i lettori hanno inserito in fondo all'articolo editoriale di *Science*, inlcuso un 'non disprezzate la ricerca dei miei amici'.
+
+[1] [Coadministration of a Tumor-Penetrating Peptide Enhances the Efficacy of Cancer Drugs](http://dx.doi.org/10.1126/science.1183057), Kazuki N. Sugahara & Tambet Teesalu *et. al.*, Science, April 8, 2010.
