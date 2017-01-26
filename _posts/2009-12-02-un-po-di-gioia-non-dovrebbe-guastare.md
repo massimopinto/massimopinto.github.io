@@ -1,0 +1,7 @@
+---
+layout: post
+title: Un po' di gioia non dovrebbe guastare
+tags: []
+---
+
+Ieri [maluccio](http://www.galileonet.it/postdoc/article/217/maluccio-per-noi-meglio-per-altri), oggi alla grande: e' stato appena accettato per la pubblicazione il manoscritto che corona tutto il lavoro a cui mi dedicai in USA *anema e core*. Il piu' sudato, piu' completo, forse il lavoro meglio progettato ed eseguito che sia riuscito fino ad ora a pubblicare nella mia relativamente breve carriera di ricercatore. La gioia e' inconteninibile per questo Pinto, Azzam & Howell 2010, al punto da abusare di questo blog in chiaro conflitto di interessi. Su il bicchiere!

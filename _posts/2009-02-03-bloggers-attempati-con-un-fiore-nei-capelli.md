@@ -1,0 +1,10 @@
+---
+layout: post
+title: Bloggers attempati, con un fiore nei capelli
+tags: []
+---
+
+Vi ricordate la [gara indetta](http://www.galileonet.it/postdoc/article/37/ve-la-do-io-la-california-vi-occorre-solo-un-blogger-maturo) da *Nature* lo scorso settembre, quella in cui si cercava di indurre anche i meno giovani a fare blogging scientifico?
+Bene, hanno scelto i vincitori, [Shirley Wu e Russ Altman](http://network.nature.com/groups/sciblog2008/forum/topics/3857), entrambi all'Universita' di Stanford, in California.
+Lo scopo della gara era cercare di attirare un ricercatore/prof non piu' giovanissimo nella *blogsfera*. Ed eccolo qui, il blog di Russ Altman, [building confidence](http://rbaltman.wordpress.com/).
+I vincitori parteciperanno a SciFoo 2009, un evento sui media moderni (blogging podcasting, twittering e chissa' che altro) che viene organizzato da Google, Nature ed O'Reilly, ogni anno, nella super-sede di Google a Mountain View, in California. Quest'anno [SciFoo](http://www.nature.com/nature/meetings/scifoo/index.html) si terra' in Agosto.

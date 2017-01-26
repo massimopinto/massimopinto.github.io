@@ -1,0 +1,15 @@
+---
+layout: post
+title: La ricerca come avventura o come battaglia?
+tags: []
+---
+
+Nel 2006 *Nature* pubblicava una lettera[1] di un professore di Fisica olandese che, commentando un'editoriale[2] apparso poco prima sulla stessa rivista, sosteneva che la ricerca scientifica è un'avventura (lunga anche tutta la vita) piuttosto che una battaglia continua. Tre anni dopo, in tempi di "grossa crisi" e di vacche magre, vorrei prendere una sua frase, che traduco dalla sopracitata lettera, come incoraggiamento a tutti quelli che ci stanno provando, comunque, anche quando le probabilità sono bassissime e quando dall'estero ci ridono su, come fecero gli amici in Québec quando gli raccontai del rateo di successo nella gara a cui presi parte lo scorso anno:
+
+> ... è vero che è difficile assicurarsi i finanziamenti (per la ricerca, ndT), tuttavia quasi tutti quelli che conosco e che hanno provato a risottomettere il loro progetto ce l'han fatta, alla fine.
+
+Chiaramente lui scriveva dall'Olanda.
+
+[1] Nature 439, 18 (5 January 2006) | [doi:10.1038/439018c](http:/.dx.doi.org/doi:10.1038/439018c)
+
+[2] Nature 438, 429 (24 November 2005) | [doi:doi:10.1038/438429a](http:/.dx.doi.org/doi:doi:10.1038/438429a)

@@ -1,0 +1,9 @@
+---
+layout: post
+title: Cellulari ed udito
+tags: []
+---
+
+L'ultimo numero del [Radiation Research Podcast](https://timssnet2.allenpress.com/ECOMRADRES/timssnet/wordpress/index.php/archives/129) contiene un'intervista a Marta Parazzini e Paolo Ravazzani, due ricercatori del CNR di Milano, sui possibili effetti della telefonia UMTS sul sistema auditivo. L'intervista si riferisce ad un articolo[1] pubblicato lo scorso Agosto sulla rivista *Radiation Research*, uno studio internazionale a cui hanno contribuito, oltre l'Italia, Russia, Lituania, Polonia, Francia, Inghilterra ed Ungheria.
+
+[1] Parazzini et al, 2009. [Effects of UMTS Cellular Phones on Human Hearing: Results of the European Project EMFnEAR](http://dx.doi.org/10.1667/RR1679.1)

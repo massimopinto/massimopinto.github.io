@@ -1,0 +1,13 @@
+---
+layout: post
+title: Epilogo - storia di una stabilizzanda
+tags: []
+---
+
+Una mia amica ricercatrice e collaboratrice, la chiamerò Anna, ha ricevuto oggi una comunicazione ufficiale: dovrà presentarsi il giorno 21 Aprile per firmare il suo contratto a tempo indeterminato. Anna fu ospite di Radio3 Scienza il 2 Ottobre del 2008 con una storia di stabilizzanda fatta di promesse e delusioni, che mi fu d'ispirazione per [un post](http://blogs.nature.com/massimopinto/2008/04/18/got-the-right-union-support-now-go-for-tenure) sul ruolo dei sindacati nelle promozioni sul lavoro.
+
+*io:* "Caspita! sarai contenta!"
+
+*Anna:* "No. Sono esausta. E con questa promozione perdo 300 euro netti di salario mensile, perché tutta l'anzianità che ho maturato come ricercatrice a tempo determinato viene perduta."
+
+Anna ci ha messo quindici anni e mezzo, se mi sono fatto bene i conti. E c'è chi ci riuscirà in tempi maggiori. Questa stabilizzazione ha centrato i suoi obbiettivi, o è stata un fallimento?

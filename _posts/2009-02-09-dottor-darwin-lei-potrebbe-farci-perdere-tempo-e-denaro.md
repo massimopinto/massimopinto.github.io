@@ -1,0 +1,19 @@
+---
+layout: post
+title: Dottor Darwin, lei potrebbe farci perdere tempo e denaro
+tags: []
+---
+
+Capita anche a Darwin, che Giovedi' prossimo compirebbe 200 anni, di [vedersi rifiutato]() il proprio progetto di ricerca[1].
+Dietro la satira dell'Editoriale di EMBO, la constatazione che la ricerca non e' piu' come 200 anni fa. Anzi, molti direttori di laboratorio sarebbero pronti a rispondere che non e' piu' come 15 anni fa, dal momento che oggi tutto, in fatto di proposte di progetto di ricerca, deve essere piu' o meno giustificato, sia che si cerchi denaro pubblico, dei contribuenti, sia che si tratti di denaro di fondazioni private. L'editoriale di EMBO mette a confronto il sistema finanziamento alla ricerca moderno con quello di qualche tempo fa. Con un po' di ironia...
+
+> Dottor Darwin \[...\] la societa' moderna richiede a noi arbitri di considerare le potenziali conseguenze della sua ricerca, sia in ambito sociale sia, specialmente, in ambito economico - che lei non ha affrontato nella sua proposta di progetto di ricerca.
+
+Ma questo e' il pezzo che mi fa piegare in due dalle risate
+
+> ...un'ovvia conseguenza della sua ricerca e' che forme di vita diverse deriverebbero l'una dall'altra, e questo potrebbe contrastare con credenze molto salde nella nostra societa'. \[...\] dunque occorre bilanciare questa visione con il concetto alternativo di creazionismo. Trattandosi di un organo finanziato con denaro pubblico, dobbiamo restare scrupolosamente neutrali su argomenti cosi' delicati.
+
+Capita a tutti di vedersi rigettati...
+Caro Carlo, i tempi sono cambiati...*play it again, Charles!*
+
+[1] EMBO reports 10, 1, 1 (2009) [doi:10.1038/embor.2008.239](http://dx.doi.org/doi:10.1038/embor.2008.239)

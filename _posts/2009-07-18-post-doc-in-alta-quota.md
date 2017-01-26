@@ -1,0 +1,10 @@
+---
+layout: post
+title: Post D.O.C. in alta quota
+tags: []
+---
+
+Post D.O.C va in montagna. Tornerà al livello del mare tra una decina di giorni.
+
+A presto!
+Massimo

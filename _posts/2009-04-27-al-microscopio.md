@@ -1,0 +1,24 @@
+---
+layout: post
+title: Al microscopio
+tags: []
+---
+
+Ore contese tra [l'apprendimento](http://www.galileonet.it/postdoc/article/136/un-buon-investimento) della piattaforma di analisi di trascrittomica, R, e [l'osservazione](http://www.galileonet.it/postdoc/article/138/unordinaria-giornata-di-microscopia) di campioni al microscopio. Intanto che resto bloccato su un problema, di bioinformatica, che non sono ancora riuscito a risolvere e per il quale ho chiesto aiuto sul [web](https://stat.ethz.ch/pipermail/bioconductor/attachments/20090427/fed9820b/attachment.pl), mi sono lanciato ancora nella microscopia e la misura dei micronuclei. Questa volta mi sono lasciato accompagnare dalle belle parole di un bravo [cantautore](http://www.gianmariatesta.com/). E cosi', ispirato da lui, ho pensato a queste.
+
+> Mi tuffo nel buio
+> giri di vite
+> mi portano al fuoco
+> ovali blu
+> grandi e piccoli
+> sani e malconci
+> mi accompagnano
+> mentre io, asservito,
+> Mendelianamente registro.
+> Forme gemelle
+> quasi simmetriche
+> vicine come due amanti
+> seppur sorelle
+> mi parlano di loro.
+
+![](http://www.galileonet.it/postdoc/images/28t.jpg)

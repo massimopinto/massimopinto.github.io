@@ -1,0 +1,16 @@
+---
+layout: post
+title: La nascita di un progetto di ricerca
+tags: []
+---
+
+Come nasce un progetto di ricerca scientifica? Non credo che esista una ricetta, ma vi racconto che cosa sta accadendo in queste settimane entro le mura dell'istituto presso cui lavoro, insieme ad i miei collaboratori.
+C'è eccitazione. Sulla scia di quanto fatto e pubblicato in questi anni, ed incoraggiati da alcuni colleghi, stiamo pensando a che cosa accadrà alla fine di uno degli esperimenti in corso, grosso modo l'estate del 2011. Si sono susseguite riunioni brevi, riunioni lunghe, riunioni in pochi, poi messaggi, telefonate, riunioni in molti. Ricerche sugli archivi di pubblicazioni di biomedicina, su internet. Studio di alcune pubblicazioni. Pensieri.
+Abbiamo poi individuato un collaboratore italiano, ed un possibile collaboratore australiano che ha messo a punto un sistema sperimentale che sembra fare proprio al caso nostro. Ed allora, nuove riunioni, per pianificare il contatto con l'Australia.
+
+Contatto.
+Risposta: entusiasmante.
+
+Nuove riunioni. Visita ad un laboratorio esterno, positiva. Riunione per raccontare a quelli che non c'erano, per stendere le linee guida dello sviluppo del progetto, sperando di presentarlo entro la fine del prossimo Aprile, per la valutazione, e per fare il punto della situazione con i collaboratori australiani.
+Si seguono linee di ragionamento, si viene interrotti per chiarire il pensiero. Chi parla capisce, talvolta, che il percorso logico era sbagliato, ma inavvertitamente ha aperto una parentesi importante e ci si mette un segnalibro mentale. Interviene un altro che segue un percorso diverso. Partendo da un ipotetico risultato, si chiede che cosa avremmo dimostrato, quale ipotesi sarebbe stata avvalorata o dimostrata errata. Il metodo scientifico rovesciato come un calzino, ma serve per chiarirci le idee ed evitare errori.
+Il progetto sta diventando troppo ambizioso, ed allora vien fuori un altro che con i piedi per terra invita a fare qualche semplificazione. Qualcuno ribatte che è un peccato "non fare anche questo", perché "quando ci ricapita più?". E così, avanti. Dopo alcune ore ho il cervello fritto, il quaderno pieno di note, ma il sorriso tipico di quelli che amano il loro lavoro.

@@ -1,0 +1,15 @@
+---
+layout: post
+title: !binary |-
+  QW5udW5jaWF6acOzLCBBbm51bmNpYXppw7M=
+tags: []
+---
+
+Andrea Capocci ha chiuso il suo blog con un [messaggio](http://www.galileonet.it/blog/article/481/cosa-fatta-capo-ha) in cui annunciava che il nuovo blogger di Galileo sarebbe stato migliore di lui. Andrea non conosceva il suo successore quando l’ha scritto, né io pensavo di esserlo quando l’ho letto. Certo, Andrea, bella responsabilità che hai lasciato!
+Come Andrea, sono fisico, anche se da 11 anni mi occupo di biologia cellulare. Sono ricercatore in radiobiologia, una scienza di base, interdisciplinare, che studia gli effetti biologici delle radiazioni ionizzanti e le cui scoperte mirano a migliorare sia la qualità della radioterapia del cancro, sia alla formulazione di norme per la protezione del personale professionalmente esposto alle radiazioni ionizzanti.
+Tendo a tenermi informato sui fatti dell’Italia - non soltanto della scienza - principalmente, ma con numerose eccezioni, attraverso la stampa estera, della quale apprezzo la capacità di sintesi (poi magari c'e' una manifestazione di piazza che passa sotto casa e non me ne accorgo).
+Nella mia emeroteca di casa, ad esempio, ci sono la rivista bimestrale [Seed](http://www.seedmagazine.com/) ed il settimanale [The Economist](http://www.economist.com/). I miei podcast scientifici preferiti sono quello del [Guardian](http://blogs.guardian.co.uk/science/category/podcast_1/) e quello di [Nature](http://www.nature.com/nature/podcast/).
+Quello del merito è uno dei miei temi preferiti. Poveri voi.
+Prima di approdare qui, ero [qui](http://network.nature.com/blogs/user/massimopinto).
+Spero di leggere molte vostre critiche e commenti, ma vi prego di esser sempre corretti e rispettosi delle idee degli altri che commenteranno.
+*Annunciazió, Annunciazió*

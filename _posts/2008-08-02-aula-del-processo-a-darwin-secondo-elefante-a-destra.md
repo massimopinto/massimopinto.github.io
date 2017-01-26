@@ -1,0 +1,13 @@
+---
+layout: post
+title: Aula del Processo a Darwin, secondo elefante a destra
+tags: []
+---
+
+Questa sera, nell'ambito della [Estate Romana](http://www.estateromana.comune.roma.it/) ci sara' lo spettacolo [Processo a Darwin](http://www.estateromana.comune.roma.it/manifestazioni/teatro/evoluti_si_nasce) al BioParco di Roma, in Villa Borghese.
+
+> **ore 20.30** - pillole dello spettacolo teatrale "Processo a Darwin" in cui Maurizio Micheli vestirà i panni del Presidente del Tribunale, Vittorio Viviani quelli del Pubblico Ministero, e Gerolamo Alchieri nel ruolo di Charles Darwin.
+> Lo spettacolo è strutturato come un processo penale: con i capi d’accusa, il dibattimento, le arringhe, e l’imputato, il naturalista Charles Darwin.
+> Note sullo spettacolo: Testo di Giovanni Carrada; regia di Riccardo Cavallo; attori: Maurizio Micheli nel ruolo del Presidente del Tribunale, Vittorio Viviani nel ruolo del Pubblico Ministero, Gerolamo Alchieri nel ruolo di Charles Darwin, Lucia Bendia nel ruolo dell'Avvocato della Difesa.
+
+Ci si vede li'?

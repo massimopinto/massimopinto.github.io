@@ -1,0 +1,25 @@
+---
+layout: post
+title: Cellule impazzite o tutt'altro che matte?
+tags: []
+---
+
+Nell'andirivieni di questi ultimi giorni, un pò trafelati, mi sono imbatutto in un post[1] di [David Basanta](http://network.nature.com/people/basanta), un amico virtuale di quelli che sarebbe bello avere alla porta a fianco per naufragare insieme in chiacchierate scientifiche, ma che purtroppo non ho mai ancora visto di persona (aspetto però fiducioso che il web 3.0 proponga una soluzione).
+
+David racconta di un recente articolo pubblicato nientepopodimeno che su *Science*, mica il giornalino della parrocchia, sul tema dell'effetto del microambiente sulla curabilità di alcuni tipi di tumore del pancreas[2] che risultano molto resistenti alla chemioterapia. La questione della curabilità di questo tipo di tumori è tanto complessa quanto affascinante. Questi adenocarcinomi sono [molto resistenti](http://it.wikipedia.org/wiki/Cancro_del_pancreas) ad una chemioterapia standard, quella con gemcitabina, e urge la scoperta di un loro possibile tallone di Achille.
+
+Nell'articolo, Olive e colleghi mostrano[3] che, in un modello sperimentale di topolini che simula piuttosto bene proprio il contesto di questi tumori del pancreas umani, il tumore è poco irrorato da vasi sanguigni, quindi poco ossigenato. Abbiamo già parlato [su questo blog](http://www.galileonet.it/postdoc/article/158/radiosensibilizzazione-del-compartimento-tumorale-scarsamente-ossigenato) dell'ipossia nei tumori e delle complicazioni (radio)terapeutiche che questa può portare, ma nel contesto della chemioterapia, il problema principale della scarsa irrorazione di sangue è dettato dall'accesso limitato di farmaci al tessuto tumorale. Il contributo originale di Olive *et al* è stato comprendere che il tessuto sano circostante il tumore (lo stroma che è associato a questi adenocarcinomi) contribuisce direttamente ad una bassa irrorazione sanguigna. Come possibile strategia terapeutica, quindi, si cercherebbe di *indurre* il tessuto sano a lasciare che nascano nuovi vasi sanguigni vicino al tumore. Se è vero che ciò potrebbe apportare più ossigeno, e quindi potenzialmente energia per il tumore, è anche vero che questo faciliterebbe anche l'arrivo della gemcitabina. Questo è esattamente quanto dimostrano Olive e colleghi, anche se non nascondono che l'effetto che sono riusciti ad ottenere è stato piccolo.
+
+Ciononostante, lo studio indica che il principio è corretto, e questa è, forse, la notizia più rilevante del lavoro, perché indica che le cellule tumorali non son né impazzite, né stupide, ma si servono delle cellule sane circostanti per procurarsi dei vantaggi. Dicendo (chiacchierate molecolari con direttive dettate dal tumore) allo stroma sano di fare pochi vasi sanguigni (bassa vascolarizzazione), le cellule tumorali si tengono al riparo dalle incursioni che potrebbero giungere dal sangue, ma che diventano di nuovo possibili se queste chiacchierate vengono censurate, 'molecolarmente parlando', come hanno fatto Olive e colleghi.
+
+Secondo quanto è scritto nel commento all'articolo[4], le cellule tumorali potrebbero preferire un ambiente con poco ossigeno, condizione che le rende ancora più instabili e prone ad ulteriori cambiamenti che favoriscono la loro progressione maligna.
+
+Questa è un'altra dimostrazione che il microambiente tumorale sembra giocare un ruolo di sostegno al tumore. Nascono nuove strade per la sperimentazione terapeutica, strade che dovranno essere percorse in modelli di laboratorio sempre più rappresentativi dei tumori umani. Ciò dovrebber fare riflettere anche per chi crede che gli animali da laboratorio non dovrebbero essere usati.
+
+[1] [Cooperation and Cancer](http://network.nature.com/people/basanta/blog/2009/06/22/cooperation-and-cancer), 22 Giugno 2009
+
+[2] Pancreatic Ductal Adenocarcinoma o PDA
+
+[3] Inhibition of Hedgehog signaling enhances delivery of chemotherapy in a mouse model of pancreatic cancer, Olive *et al*, [Science Vol 324, 12 June 2009](http://dx.doi.org/10.1126/science.1171362). L'articolo ha avuto anche [un commento](http://dx.doi.org/10.1126/science.1175940) sullo stesso numero del giornale.
+
+[4] Inhibition of Hedgehog signaling enhances delivery of chemotherapy in a mouse model of pancreatic cancer, Olive *et al*, [Science Vol 324, 12 June 2009](http://dx.doi.org/10.1126/science.1171362). L'articolo ha avuto anche [un commento](http://dx.doi.org/10.1126/science.1175940) sullo stesso numero del giornale.

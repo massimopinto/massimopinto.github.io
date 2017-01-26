@@ -1,0 +1,12 @@
+---
+layout: post
+title: Vacca magra
+tags: []
+---
+
+Diventano tangibili altre conseguenze dei 'tagli alla ricerca'. Non riguardano solo il blocco di nuove assunzioni o i rinnovi di contratto dei precari, di cui si parla e si scrive già tanto.
+
+Nel dipartimento in cui sono ospitato, all'Istituto Superiore di Sanità, è stato annullato un fondo che metteva a disposizione alcune migliaia di euro ogni anno per finanziare viaggi all'estero e presentare, a congressi scientifici, i risultati del lavoro svolto. Bye bye.
+La biblioteca centale dell'Istituto ha annunciato che non sarà possibile rinnovare tutti gli abbonamenti annuali alle riviste scientifiche e che quelli per alcune riviste ritenute 'minori' saranno annullati. Minori. Bah. Per qualcuno di noi, tanto minori non saranno, forse, e quei ricercatori si sentiranno un po' più isolati di prima.
+
+Post D.O.C. parte per le nevi della Valle d'Aosta. Buona settimana a tutti ed arrivederci al 15 Marzo!

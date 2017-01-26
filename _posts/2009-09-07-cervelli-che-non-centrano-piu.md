@@ -1,0 +1,34 @@
+---
+layout: post
+title: !binary |-
+  Q2VydmVsbGkgY2hlIG5vbiBjJ2VudHJhbm8gcGnDuS4=
+tags: []
+---
+
+Poco più di un anno fa [scrissi](http://network.nature.com/people/massimopinto/blog/2008/03/30/lose-them-get-them-back-lose-them-again) sul mio blog inglese *Science in the Bel Paese* alcune impressioni su quei cervelli che vogliono rientrare in Italia, ci riescono, magari conquistando posizioni rispettabili, ma che poi non ce la fanno più a restare e decidono di andarsene di nuovo, in barba a tutta la fatica che era gli costata rientrare in terra natìa. Queste storie mi sembravano suggerire che il vero obiettivo-sogno dei cervelli che rientrano non sia tanto il guadagno di una posizione stabile, per quanto sia rarissima, quanto la soddisfazione di poter trovare, in Italia, condizioni di lavoro simili a quelle che si lasciano nel paese in cui si era espatriati. Merito, spazio ai giovani, ascolto e critica spassionata delle loro idee evidentemente valgono di più di un posto di lavoro permanente, che può pure esser vissuta come una condanna permanente, se mancano le condizioni desiderate.
+
+Leggo numerosi articoli su cervelli che non riescono a rientrare perché non trovano opportunità di lavoro stabile in Italia, articoli che raccontano di cervelli nostrani scappati all'estero perché qui non riuscivano a lavorare. Ci sono però anche degli Italiani che vanno via senza troppi dubbi e che vivono la loro dipartita in modo maturo, arrivando anche a posizioni di dirigenza.
+
+Quella che segue è una breve intervista, non comune su questo blog, a Marco Durante, 43 enne, direttore del [reparto di Biofisica del GSI](http://www.gsi.de/forschung/bio/index_e.html) di Darmstadt, in Germania. Marco è stato il mio primo mentore, nonché la persona che mi ha fatto conoscere l'esistenza della radiobiologia, quando avevo appena 19 anni, per cui taglio corto ed in quest'intervista gli do del *tu*.
+
+=
+
+*Post DOC*. Marco, tu sei professore Associato all'Università di Napoli Federico II, non certo un precario della ricerca. Raccontaci che cosa ti ha spinto ad andare via dall'Italia. Ha senso definirti un cervello in fuga?
+
+*MD*. Personalmente detesto questa definizione. In fuga da che? Quando un calciatore si muove dal Brasile verso l'Italia o l'Inghilterra non si dice "piedi in fuga". Purtroppo, l'Italia è un po' il "Brasile" della scienza, mentre USA, Inghilterra, Germania ecc. giocano il ruolo dell'Italia del calcio. Ci si sposta perché vengono offerte opportunità migliori, è molto semplice. I discorsi vittimistici non hanno senso.
+
+*Post DOC*. Che cosa sbaglia l'Italia, nei confronti dei suoi 'cervelli' e come si può risolvere?
+
+*MD*. Sono stati scritti ponderosi tomi sull'argomento da eminenti studiosi, e ogni governo non resiste alla tentazione di una "riforma globale" che in genere parte dalla scuola materna per arrivare al dottorato di ricerca. "Cambiare tutto per non cambiare nulla", come nel Gattopardo. Chiunque abbia lavorato all'estero nota che le differenze sono chiare e semplici. Investire sui giovani, in primo luogo. Servono a poco i progetti per ricercatori con meno di 40 anni che ogni tanto vengono lanciati in Italia per combattere la gerontocrazia. Si trova qualche giovane disposto a comparire come responsabile, ed il gioco è fatto. E' una questione di potere. Perfino in Giappone, che è considerato un paese con una forte gerarchia basata sull'età, a 65 anni si va in pensione, e si decade da tutte le cariche. In Germania, è del tutto normale che un quarantenne come me sia professore ordinario e diriga un dipartimento di un centro Helmholtz - in Italia ero considerato un ragazzino. Vi è poi il problema dell'eccellenza. In Italia si investe poco, è vero, ma in aggiunta i fondi devono raggiungere uan miriade di centri, università, istituti, ecc. Concentrare i fondi sugli istituti di eccellenza è la strada giusta. Anche qui si parla di "meritocrazia" e "valutazione", ma è tempo perso se non vi è un sistema di controllo serio. Per esempio, i "concorsi" si fanno solo in Italia. Nel resto del mondo, i ricercatori sono assunti con un semlice colloquio, ed il Direttore se ne assume la responabilità. Se prendo persone preparate e produttive, avrò successo, se scelgo male, pagherò in prima persona. Questo in Italia non esiste.
+Infine, il problema degli investimenti. In Italia gli investimenti dal
+privato nella ricerca sono quasi assenti, e questo è dovuto alla
+struttura dell'industria italiana - in genere piccola, e assai poco
+propensa a rischiare, a crescere. Quelli pubblici scarsi, e questo è
+anche un problema culturale. L'immagine della ricerca scientifica in Italia è quasi sempre negativa, al contrario di quello che avviene nel resto del mondo. Il politico non guadagna in popolarità investendo nella ricerca, tanto meno in quella di base, che è invece il motore del paese.
+
+*Post DOC*. Il tuo consiglio a chi considera trascorrere qualche anno all'estero?
+
+*MD*. Fatelo....
+
+![](http://www.gsi.de/portrait/Pressemeldungen/M_Durante_72dpi.jpg)
+*dalle pagine web del GSI*
