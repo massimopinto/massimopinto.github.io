@@ -3,7 +3,7 @@ layout: default
 ---
 <h1>{{ page.title }}</h1>
 
-{% if page.date %}
+{% if page.date %} <!-- NOTE: this was inserted because some posts may not contain a valid date for filterin -->
 <p class="meta">{{ page.date | date_to_string }}</p>
 {% endif %}
 
@@ -19,11 +19,16 @@ layout: default
 			<!-- include some categories and tags maybe? -->
 </div>
 
-<hr>
+  <div style="font-size:11px; color:grey">
+Riproduzione autorizzata di un articolo originariamente pubblicato sulla rivista online <a href="http://www.galileonet.it">Galileo</a>. Il copyright di questo materiale è di proprietà di Galileo Servizi Editoriali.
 
-<!-- Post comments -->
+  </div>
+
+
+
+<!-- Post comments
 			<div class="notecomments">
 				{% include disqus.html %}
 			</div>
-
+-->
 </div>
