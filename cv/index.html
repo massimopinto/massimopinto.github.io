@@ -11,6 +11,46 @@ description: Current CV for Massimo Pinto, a Research Scientist living in Rome, 
 <!-- link to main stylesheet -->
 <!-- I am commenting this out as I undersand this should not override your "main.css" definitions -->
 <!--		<link rel="stylesheet" type="text/css" href="/css/style.css"> -->
+
+<!--<meta name="viewport" content="width=device-width, initial-scale=1"> -->
+<style>
+.collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #555;
+}
+
+.collapsible:after {
+  content: '\002B';
+  color: white;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2212";
+}
+
+.content {
+  padding: 0 18px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  background-color: #f1f1f1;
+}
+</style>
+
 <div class="cv">
 	<a href="/files/MassimoPinto_CV_EU.pdf" class="btn btn-default pull-right" title="Download CV as PDF">Download CV (PDF)</a>
 				<div itemscope itemtype="http://data-vocabulary.org/Person">
@@ -58,4 +98,41 @@ description: Current CV for Massimo Pinto, a Research Scientist living in Rome, 
 					<li><em>OS:</em> Mac OS, Linux, Microsoft</li>
 					<li><em>Web:</em>	<a href="https://wordpress.org">WordPress</a>, <a href="https://plone.org">Plone</a>, <a href="http://jekyllrb.com">Jekyll</a>, <a href="https://github.com">GitHub</a> and <a href="https://pages.github.com">GitHub pages</a></li>
 				</ul>
+
+
+<h2>Publication list (in progress)</h2>
+<button class="collapsible">Publications in Radiation Dosimetry</button>
+<div class="content">
+  <p> 
+	Andreo P, Burns, D, Kapsch R-P, McEwen M, Vatnitsky S, Andersen C E, Ballester F, Borbinha J, Delaunay F, Francescon 
+		P, Hanlon M, Mirzakhanian L, Muir B, Ojala J, Oliver C, Pimpinella M, <b>Pinto M</b>, de Prez L, Seuntjens J, Sommier L, Teles P, Tikkanen J, Vijande J and Zink K, <b>2020</b>, ``Determination of consensus k<sub>Q</sub> values for megavoltage photon beams for the update of IAEA TRS-398'', <em>Physics in Medicine and Biology</em>, in press
+  </p>
+  <p>
+	Tikkanen J S, Zink K, Pimpinella M, Teles P, Borbinha J, Ojala J, Siiskonen T, Gomà C, and <b>Pinto M</b>, <b>2020</b>, 
+"Calculated beam quality correction factors for ionization chambers in MV photon beams", <em>Physics in Medicine and Biology</em>, 
+<b>65</b> 075003, <a href="https://doi.org/10.1088/1361-6560/ab7107">https://doi.org/10.1088/1361-6560/ab7107</a>>
+  </p>
+  <p>Santurio G V, <b>Pinto M</b>, and Andersen C E, <b>2020</b>, "Evaluation of the ionization quenching effect in an organic plastic scintillator using kV x-rays and a modified Birks model with explicit account of secondary electrons", <em>Radiation Measurements</em> <b>131</b> 106222, <a href="https://doi.org/10.1016/j.radmeas.2019.106222">https://doi.org/10.1016/j.radmeas.2019.106222</a>
+	</p>
+	<p>
+		Pimpinella M, Silvi L and <b>Pinto M</b>, <b>2019</b>, "Calculation of kQ factors for Farmer-type ionization chambers following the recent recommendations on new key dosimetry data", <em>Physica Medica</em> <b>57</b> 221–30, <a href="https://doi.org/10.1016/j.ejmp.2018.12.006">https://doi.org/10.1016/j.ejmp.2018.12.006</a>		
+	</p>
 </div>
+
+</div>
+    <script>
+	var coll = document.getElementsByClassName("collapsible");
+	var i;
+	
+	for (i = 0; i < coll.length; i++) {
+	  coll[i].addEventListener("click", function() {
+		this.classList.toggle("active");
+		var content = this.nextElementSibling;
+		if (content.style.maxHeight){
+		  content.style.maxHeight = null;
+		} else {
+		  content.style.maxHeight = content.scrollHeight + "px";
+		} 
+	  });
+	}
+	</script>
